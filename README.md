@@ -3,7 +3,7 @@ Desktop app for downloading youtube videos.
 
 This app supports upto 4k of video downloading from youtube. 
 
-### How to used it?
+### Installation Guide 
 
 - Install the [Requirements](https://github.com/faizanalii/YouTube-Video-Downloader/blob/master/requirements.txt) using *pip install -r requirements.txt* command. 
 - Navigate to directory where you've cloned or downloaded the files *main.py, Downloader.py* and type *python main.py* in the command line or terminal. 
