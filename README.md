@@ -5,7 +5,9 @@ This app supports upto 4k of video downloading from youtube.
 
 ### How to used it?
 
-- Install the requirements.txt file using pip 
+- Install the requirements using *pip install -r requirements.txt* command. 
+- Navigate to directory where you've cloned or downloaded the files *main.py, Downloader.py* and type *python main.py* in the command line or terminal. 
+- main.py and Downloader.py files should be in the same directory. 
 
 ### How Libraries are working
 
@@ -18,7 +20,7 @@ This app supports upto 4k of video downloading from youtube.
 * urllib:
  urllib is used to get the thumbnail image from the youtube and show it on the app.
 
-This app only works for * YouTube *.  
+This app only works for *YouTube.*
  
  
 
